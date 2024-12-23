@@ -1,0 +1,1 @@
+ALTER TABLE "midwestcon_scenes" ADD COLUMN "reward_pending" boolean DEFAULT false;

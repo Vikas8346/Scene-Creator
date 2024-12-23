@@ -1,0 +1,1 @@
+ALTER TABLE "midwestcon_scenes" ADD COLUMN "date" date NOT NULL;
